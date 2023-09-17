@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.afff4043.css",
-    "main.js": "/static/js/main.500f9a7a.js",
+    "main.js": "/static/js/main.b38d8375.js",
     "static/js/787.887aee03.chunk.js": "/static/js/787.887aee03.chunk.js",
     "static/media/thumbnail.jpg": "/static/media/thumbnail.05a152e94216c6e20f50.jpg",
     "static/media/Nism-series-xv-chapter-1-part-1.pdf": "/static/media/Nism-series-xv-chapter-1-part-1.c94ce91d3988878d50f0.pdf",
     "static/media/courses.png": "/static/media/courses.44e9f5c5d6c4dcb5d296.png",
     "static/media/ia.png": "/static/media/ia.85207193971c45455cd9.png",
     "static/media/ar.png": "/static/media/ar.291c2684915c4b884145.png",
+    "static/media/pm.png": "/static/media/pm.1c9510143076945f6fd4.png",
     "static/media/nism.png": "/static/media/nism.b78ceb66b2bc4bcdd29a.png",
     "static/media/logo.png": "/static/media/logo.1aeeba5117eda980af0a.png",
     "static/media/check.png": "/static/media/check.a5beeb0f27642d5ac3b1.png",
@@ -15,11 +16,11 @@
     "static/media/pdf.png": "/static/media/pdf.6279a47b4effd0a7eae7.png",
     "index.html": "/index.html",
     "main.afff4043.css.map": "/static/css/main.afff4043.css.map",
-    "main.500f9a7a.js.map": "/static/js/main.500f9a7a.js.map",
+    "main.b38d8375.js.map": "/static/js/main.b38d8375.js.map",
     "787.887aee03.chunk.js.map": "/static/js/787.887aee03.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.afff4043.css",
-    "static/js/main.500f9a7a.js"
+    "static/js/main.b38d8375.js"
   ]
 }
