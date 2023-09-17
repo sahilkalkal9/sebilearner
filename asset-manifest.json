@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8a32ad0f.css",
-    "main.js": "/static/js/main.60a62744.js",
+    "main.css": "/static/css/main.9f075bf4.css",
+    "main.js": "/static/js/main.81b7b815.js",
     "static/js/787.887aee03.chunk.js": "/static/js/787.887aee03.chunk.js",
     "static/media/thumbnail.jpg": "/static/media/thumbnail.05a152e94216c6e20f50.jpg",
     "static/media/Nism-series-xv-chapter-1-part-1.pdf": "/static/media/Nism-series-xv-chapter-1-part-1.c94ce91d3988878d50f0.pdf",
@@ -11,12 +11,12 @@
     "static/media/check.png": "/static/media/check.a5beeb0f27642d5ac3b1.png",
     "static/media/pdf.png": "/static/media/pdf.6279a47b4effd0a7eae7.png",
     "index.html": "/index.html",
-    "main.8a32ad0f.css.map": "/static/css/main.8a32ad0f.css.map",
-    "main.60a62744.js.map": "/static/js/main.60a62744.js.map",
+    "main.9f075bf4.css.map": "/static/css/main.9f075bf4.css.map",
+    "main.81b7b815.js.map": "/static/js/main.81b7b815.js.map",
     "787.887aee03.chunk.js.map": "/static/js/787.887aee03.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a32ad0f.css",
-    "static/js/main.60a62744.js"
+    "static/css/main.9f075bf4.css",
+    "static/js/main.81b7b815.js"
   ]
 }
