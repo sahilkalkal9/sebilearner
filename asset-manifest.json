@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.40671d6f.css",
-    "main.js": "/static/js/main.1ccea4ee.js",
+    "main.css": "/static/css/main.22636b44.css",
+    "main.js": "/static/js/main.2a64d133.js",
     "static/js/787.887aee03.chunk.js": "/static/js/787.887aee03.chunk.js",
     "static/media/thumbnail.jpg": "/static/media/thumbnail.05a152e94216c6e20f50.jpg",
     "static/media/Nism-series-xv-chapter-1-part-1.pdf": "/static/media/Nism-series-xv-chapter-1-part-1.c94ce91d3988878d50f0.pdf",
@@ -11,16 +11,17 @@
     "static/media/pm.png": "/static/media/pm.1c9510143076945f6fd4.png",
     "static/media/nism.png": "/static/media/nism.b78ceb66b2bc4bcdd29a.png",
     "static/media/logo.png": "/static/media/logo.1aeeba5117eda980af0a.png",
+    "static/media/logo-mobile.png": "/static/media/logo-mobile.86c3bda5061a87a587cb.png",
     "static/media/check.png": "/static/media/check.a5beeb0f27642d5ac3b1.png",
     "static/media/close.png": "/static/media/close.ffdafe3f0eceab67b7c2.png",
     "static/media/pdf.png": "/static/media/pdf.6279a47b4effd0a7eae7.png",
     "index.html": "/index.html",
-    "main.40671d6f.css.map": "/static/css/main.40671d6f.css.map",
-    "main.1ccea4ee.js.map": "/static/js/main.1ccea4ee.js.map",
+    "main.22636b44.css.map": "/static/css/main.22636b44.css.map",
+    "main.2a64d133.js.map": "/static/js/main.2a64d133.js.map",
     "787.887aee03.chunk.js.map": "/static/js/787.887aee03.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.40671d6f.css",
-    "static/js/main.1ccea4ee.js"
+    "static/css/main.22636b44.css",
+    "static/js/main.2a64d133.js"
   ]
 }
